@@ -41,3 +41,5 @@ Run `node --check js/custom.js` and `node --check js/axis.js`. Validate internal
 ## Credits and licensing
 
 Adapted from **UntreeStore / Furni by Untree.co**, supplied with a CC BY 3.0 attribution notice in `css/style.css`. The original template credit remains in the website footer and source. Bootstrap and Tiny Slider retain their upstream licenses in bundled vendor files. Included imagery is inherited from the supplied template; no exclusive rights or original photography are claimed. Review image rights before commercial reuse.
+
+Live checks: production pages and assets served successfully; the product-detail dialog opened and closed without console warnings/errors, and mobile navigation expanded correctly. A template hero-image overflow was found and fixed during responsive checks.
